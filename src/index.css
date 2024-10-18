@@ -12,6 +12,13 @@ code {
     monospace;
 }
 
+.ql-toolbar.ql-snow {
+  border-radius: 10px  !important;
+}
+
+.ql-container.ql-snow {
+  border-radius: 10px !important;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
